@@ -38,7 +38,7 @@
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 #### Ответ
-https://github.com/RomanVol1/git_1st/blob/main/README.md
+https://github.com/RomanVol1/1st/commit/dcf5937687f5e1eb032a47eb23413cdd4e1e9bc9
 
 ---
 
@@ -54,7 +54,8 @@ https://github.com/RomanVol1/git_1st/blob/main/README.md
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 #### Ответ
-https://github.com/RomanVol1/git_1st/blob/main/.gitignore
+
+https://github.com/RomanVol1/1st/commit/bbf46ebda041023d79170f96f668ecccf0f0804f
 
 ---
 
@@ -71,7 +72,8 @@ https://github.com/RomanVol1/git_1st/blob/main/.gitignore
 В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
 #### Ответ
-https://github.com/RomanVol1/git_1st
+
+https://github.com/RomanVol1/1st/commits/main
 
 ---
 ## Дополнительные задания* (со звёздочкой)
